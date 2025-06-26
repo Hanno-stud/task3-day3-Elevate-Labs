@@ -89,10 +89,15 @@ The dataset is **clean and does not contain null values.**
 ---
 
 ## 📸 Outputs
+
+### 1. Actual vs Predicted Housing Prices 🏠📈📉
 ![image](https://github.com/user-attachments/assets/9937aea3-1cea-4701-b716-7a3f0e414d5a)
 <br/>
+### 2. Simple Linear Regression: Area vs Price 🏠⬆️
 ![image](https://github.com/user-attachments/assets/a41d2023-88c5-40cb-b81f-bb6daa5ecdb2)
 <br/>
+
+### 3. Feature Correlation Matrix 🏘️📐💸
 ![image](https://github.com/user-attachments/assets/7fb02505-2b35-4bcc-9c6f-a31a4cae55cf)
 
 ---
